@@ -1,0 +1,23 @@
+{
+  "name": "artoy",
+  "version": "1.0.0",
+  "description": "Artifact runner in the bridge network environment for the follow-up action of CI",
+  "main": "peer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labeldock/artoy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/labeldock/artoy/issues"
+  },
+  "homepage": "https://github.com/labeldock/artoy#readme",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "node-ssh": "^13.0.1"
+  }
+}

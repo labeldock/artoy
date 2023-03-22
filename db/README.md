@@ -1,0 +1,1 @@
+Artoy is a lightweight service. This is a JSON DB implementation using nedb.
